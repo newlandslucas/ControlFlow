@@ -107,6 +107,7 @@ struct ContentView: View {
                     .toggleStyle(SwitchToggleStyle(tint: Color.blue))
                 }
                 .background(rowBackgroundColor)
+                .cornerRadius(10)
                 
             }
             .padding()
