@@ -35,6 +35,7 @@
 		A45B7F982848385D00A9DFEB = {
 			isa = PBXGroup;
 			children = (
+				A45B7FB2284838E500A9DFEB /* App */,
 				A45B7FA32848385D00A9DFEB /* ControlFlow-SwiftUI */,
 				A45B7FA22848385D00A9DFEB /* Products */,
 			);
@@ -52,7 +53,6 @@
 			isa = PBXGroup;
 			children = (
 				A45B7FA42848385D00A9DFEB /* ControlFlow_SwiftUIApp.swift */,
-				A45B7FA62848385D00A9DFEB /* ContentView.swift */,
 				A45B7FA82848385E00A9DFEB /* Assets.xcassets */,
 				A45B7FAA2848385E00A9DFEB /* Preview Content */,
 			);
@@ -65,6 +65,14 @@
 				A45B7FAB2848385E00A9DFEB /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A45B7FB2284838E500A9DFEB /* App */ = {
+			isa = PBXGroup;
+			children = (
+				A45B7FA62848385D00A9DFEB /* ContentView.swift */,
+			);
+			path = App;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
