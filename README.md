@@ -9,13 +9,13 @@
 
 - In the terminal run this command
 
-  -  `git clone https://github.com/newlandslucas/Fructus-app.git`
+  -  `git clone https://github.com/newlandslucas/ControlFlow.git`
 
 - Open that folder in your XCode
 
 ## Prints
 
-<img src="/ControlFlow-SwiftUI/Images/p1.png" height="600" width="300"> <img src="/ControlFlow-SwiftUI/Images/p2.png" height="600" width="300"> 
+<img src="/ControlFlow/Images/p1.png" height="600" width="300"> <img src="/ControlFlow/Images/p2.png" height="600" width="300"> 
 
 
 ## Author
